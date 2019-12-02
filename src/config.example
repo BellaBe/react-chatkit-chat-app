@@ -1,0 +1,6 @@
+const tokenUrl = "your chatkit token" ;
+
+const instanceLocator = "your instance locator";
+const userId = "your user id;
+
+export { tokenUrl, instanceLocator, userId };
